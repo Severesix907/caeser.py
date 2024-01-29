@@ -53,11 +53,7 @@ class Cypher:
 		return unshift_list
 	
 
-# In this code we are going to call the function we created and additionally we are going to print the encrypted message
-# The Cypher text comes from the class we created so in order to use the class we are going to call it everytime we want to use what is inside the class
-# reason why we are going to add a . after the class is because we are going to use the function inside the class
-# the reason why also is added everythign together instead of having it seperate it to make the code more cleaner and more organized
-# We are also going to ask the user to input a message to decrypt
+
 	
 #In this code we are going to call the function we created. This will help use stay organize and clean 
 # We call that chaining functions.(We are calling the class(Cypher)within a function by using a .)
